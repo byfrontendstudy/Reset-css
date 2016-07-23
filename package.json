@@ -1,0 +1,22 @@
+{
+  "name": "reset-css",
+  "version": "1.0.0",
+  "description": "reset css를 이해하고 직접 짜보자",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byfrontendstudy/Reset-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byfrontendstudy/Reset-css/issues"
+  },
+  "homepage": "https://github.com/byfrontendstudy/Reset-css#readme",
+  "dependencies": {
+    "normalize.css": "^4.2.0"
+  }
+}
